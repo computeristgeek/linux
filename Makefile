@@ -1,8 +1,8 @@
 VERSION = 4
 PATCHLEVEL = 4
 SUBLEVEL = 0
-EXTRAVERSION = -rc1
-NAME = Blurry Fish Butt
+EXTRAVERSION = -rc1.2
+NAME = S Magic
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
